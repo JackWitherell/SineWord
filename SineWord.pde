@@ -1,3 +1,5 @@
+//This Program makes a Word Bounce like a Sine Wave
+
 void setup(){
   size(484, 461);
   frameRate(60);
